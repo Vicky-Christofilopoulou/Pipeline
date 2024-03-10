@@ -1,5 +1,5 @@
 # Pipeline
-The objective of the task is to design a MIPS microprocessor with pipelining for the best possible energy efficiency, meaning the highest performance per unit of power, as a project in "Computer Architecture 2" course.
+The objective of the task is to design a MIPS microprocessor with pipelining for the best possible energy efficiency, meaning the highest performance per unit of power, as a project in "Computer Architecture 2" course. 
 
 The implementation and the results are explained on this pdf.
 [ReadMe.pdf](https://github.com/Vicky-Christofilopoulou/Pipeline/files/14550253/ReadMe.pdf)
