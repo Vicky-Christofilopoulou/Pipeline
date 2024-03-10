@@ -21,6 +21,6 @@ The next step is to design the MIPS-pipeline-simple processor, which has five st
 The final step is to design a more aggressive processor, MIPS-pipeline-turbo, which also has five stages of pipelining, a clock rate of 300 MHz, and consumes 35 watts. For data hazards, it has detection and forwarding. For control hazards, it uses 2-bit branch prediction and a 5-bit BHT. Branch resolution occurs in the ID stage.
 
 ## Contributors of the project :
-* [Zannis Vidalis](https://github.com/sdi2000022)
+* [Zannis Vidalis](https://github.com/ZannisVidalis)
 * [Eleni Feslian](https://github.com/sdi2000204)
 * [Vicky-Christofilopoulou]( https://github.com/Vicky-Christofilopoulou )
