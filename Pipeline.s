@@ -85,7 +85,6 @@ ex: 			sub $s3, $t2, $s4				#Evens = number of elements - odds
 	
 .end _start
 
-
 .data
 .org	0x10000000
 n	:	 .word 100        			#Memory word for number of array elements
