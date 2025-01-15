@@ -22,5 +22,5 @@ The final step is to design a more aggressive processor, MIPS-pipeline-turbo, wh
 
 ## Contributors of the project :
 * [Zannis Vidalis](https://github.com/ZannisVidalis)
-* [Eleni Feslian](https://github.com/sdi2000204)
+* [Eleni Feslian](https://github.com/EleniFeslian)
 * [Vicky-Christofilopoulou]( https://github.com/Vicky-Christofilopoulou )
